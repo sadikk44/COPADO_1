@@ -9,4 +9,14 @@
         <summaryOperation>sum</summaryOperation>
         <type>Summary</type>
     </fields>
+    <fields>
+        <fullName>Total_amount__c</fullName>
+        <externalId>false</externalId>
+        <label>Total amount</label>
+        <precision>18</precision>
+        <required>false</required>
+        <scale>0</scale>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Currency</type>
+    </fields>
 </CustomObject>
