@@ -3,7 +3,7 @@
     <fields>
         <fullName>Potential_Value__c</fullName>
         <externalId>false</externalId>
-        <label>Potential Value</label>
+        <label>Potential Value</label> 
         <summarizedField>Opportunity.ExpectedRevenue</summarizedField>
         <summaryForeignKey>Opportunity.AccountId</summaryForeignKey>
         <summaryOperation>sum</summaryOperation>
